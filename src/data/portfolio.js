@@ -12,10 +12,10 @@ export const profile = {
 };
 
 export const skills = [
-  { category: "Languages", items: ["Python 3.14.3", "JavaScript"] },
+  { category: "Languages", items: ["Python 3.14.3"] },
   { category: "Python Concepts", items: ["OOP", "Exception Handling", "File Handling", "Functions", "Modules & Packages"] },
   { category: "Backend", items: ["FastAPI", "REST APIs", "Postman"] },
-  { category: "Frontend", items: ["React.js", "HTML", "CSS", "Bootstrap"] },
+  { category: "Frontend", items: ["React.js", "HTML", "CSS", "JavaScript", "Bootstrap"] },
   { category: "Data & Libraries", items: ["NumPy", "Pandas", "Matplotlib"] },
   { category: "Database", items: ["MySQL"] },
   { category: "Testing & Quality", items: ["Pytest", "Pylint", "Logging", "Debugging"] },
@@ -42,7 +42,7 @@ export const experience = [
   {
     role: "Team Lead – Service Operations",
     company: "Sai Sriram Services (Whirlpool Authorized Service Center)",
-    period: "May 2024 – Present",
+    period: "May 2024 – May 2026",
     location: "Chennai",
     points: [
       "Led a team of technicians for appliance installation, maintenance, and repair.",
